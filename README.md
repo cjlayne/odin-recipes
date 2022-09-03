@@ -1,2 +1,3 @@
 # odin-recipes
 The Odin Project Recipes Project 
+This project is a showcase of different tags that i have learned how to use during my time so far through The Odin Project. I have used these tags to create a basic website that contains recipes. These recipes include some of my favorites, such as cajun pasta, chicken tacos, and fudgy brownies. This project includes many differnt tags in html such as anchor tags, heading tags, image tags, unordered lists, and ordered lists.
